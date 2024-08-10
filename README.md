@@ -64,6 +64,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or feedback, reach out to [your-email@example.com](mailto:mayanksainisre79@gmail.com).
+For any questions or feedback, reach out to [mayanksainisre79@gmail.com](mailto:mayanksainisre79@gmail.com).
 
 Enjoy the Parallax Experience! 🚀
